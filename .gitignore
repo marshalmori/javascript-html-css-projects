@@ -1,0 +1,5 @@
+fonte/
+node_modules/
+.prettierrc
+.eslintrc.json
+config.env
